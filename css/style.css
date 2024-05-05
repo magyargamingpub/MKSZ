@@ -1,0 +1,27 @@
+body {
+    background-color:antiquewhite;
+    text-align: center;
+    background-image: url("https://th.bing.com/th/id/R.6aac8ee5c32f9b1e1890f947cdd1494d?rik=v%2f%2b4WhyNN9rd0Q&riu=http%3a%2f%2fszadaiskola.hu%2fimages%2f2016%2fmarc15.jpg&ehk=IEHTO2rTawmLcZc%2f31Jy65fQspwCCPeUQyJC36Q6z7A%3d&risl=&pid=ImgRaw&r=0&sres=1&sresct=1");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    margin-top: 20px;
+    margin-bottom: 50px;
+}
+
+.uplogo {
+    width: 350px;
+    margin-bottom: 30px;
+    border-radius: 30px;
+    box-shadow: 5px 5px 10px 5px rgba(0, 0, 0, 0.397);
+}
+
+.Szerverupdate {
+    background-image:url(https://th.bing.com/th/id/OIP.yRflKZC5cVd0CZVLJE2LrgHaFQ?rs=1&pid=ImgDetMain) ;
+    margin: auto;
+    width: 800px;
+    box-shadow: 30px 10px 30px 10px rgba(0, 0, 0, 0.397);
+    padding-top: 50px;
+    padding-bottom: 100px;
+}
